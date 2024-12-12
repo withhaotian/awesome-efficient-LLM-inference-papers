@@ -5,7 +5,7 @@ A curated and up-to-date paper list of awesome on-deivce Large Language Models (
 
 If you find some interesting work/projects, please contact me through issues or email withhaotian [at] gmail [dot] com.
 
-*This list only focuses on the *on-device LLMs / SLMs research*. If you are interested in edge AI computing and system, please refer to [awesome-edge-AI-papers](git@github.com:withhaotian/awesome-edge-AI-papers.git).*
+*This list only focuses on the *on-device LLMs / SLMs research*. If you are interested in edge AI computing and system, please refer to [awesome-edge-AI-papers](https://github.com/withhaotian/awesome-edge-AI-papers.git).*
 
 # License
 This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
