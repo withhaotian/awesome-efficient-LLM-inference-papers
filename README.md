@@ -37,6 +37,7 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 - \[arXiv'24\] MobileVLM V2: Faster and Stronger Baseline for Vision Language Model - \[[PDF](https://arxiv.org/abs/2402.03766)\] \[[Code](https://github.com/Meituan-AutoML/MobileVLM)\]
 - \[arXiv'24\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits - \[[PDF](https://arxiv.org/abs/2402.17764)\]
 - \[arXiv'24\] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone - \[[PDF](https://arxiv.org/abs/2404.14219)\]
+- \[arXiv'24\] MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT - \[[PDF](https://arxiv.org/abs/2402.16840)\] \[[Code](https://github.com/mbzuai-oryx/MobiLlama)\]
 
 ## Algorithms
 - \[arXiv'24\] vTensor: Flexible Virtual Tensor Management for Efficient LLM Serving - \[[PDF](http://arxiv.org/abs/2407.15309)\]
